@@ -1,0 +1,2 @@
+# fontionPgcd
+fonction recursive 
